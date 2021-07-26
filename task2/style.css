@@ -15,7 +15,6 @@
     border: none;
     cursor: pointer;
     margin: 16px;
-    /* padding: 0; */
 }
 
 .styled-button:hover {
@@ -32,19 +31,9 @@
     fill: white;
     vertical-align: middle;
     margin: 0;
-    /* display: inline-block; */
-    /* float: left; */
-}
-
-.fa-id-card {
-    /* width: 32px;
-    height: 32px; */
-    /* margin: 0; */
-    /* vertical-align: middle; */
 }
 
 .text {
     margin: 0;
-    /* display: inline; */
     line-height: 50px;
 }
