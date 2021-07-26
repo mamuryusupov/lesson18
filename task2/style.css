@@ -15,7 +15,7 @@
     border: none;
     cursor: pointer;
     margin: 16px;
-    padding: 0;
+    /* padding: 0; */
 }
 
 .styled-button:hover {
